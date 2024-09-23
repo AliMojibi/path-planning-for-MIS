@@ -16,4 +16,5 @@ MATLAB: Used for solving the optimization problem and simulating the robot's mot
 # References
 If you wish to dive deeper into the concepts used in this project, you can refer to the following paper:
 https://ieeexplore.ieee.org/abstract/document/1043963/
+
 Michelin, M., Dombre, E., Poignet, P., Pierrot, F., & Eckert, L. (2002). Path planning under a penetration point constraint for minimally invasive surgery. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2, 1475-1480. IEEE.
