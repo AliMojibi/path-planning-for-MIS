@@ -7,9 +7,9 @@ This project formulates an optimization problem to respect these constraints and
 
 
 # Features
-Inverse Kinematics: Solved the inverse kinematics for the Mitsubishi PA-10 robot to achieve precise control over the end-effector's trajectory.
-Optimization: Formulated and solved an optimization problem to generate linear motion of the end-effector while maintaining the penetration point constraint.
-Trajectory Generation: Generated a trajectory and demonstrated the robot's controlled motion.
+* Inverse Kinematics: Solved the inverse kinematics for the Mitsubishi PA-10 robot to achieve precise control over the end-effector's trajectory.
+* Optimization: Formulated and solved an optimization problem to generate linear motion of the end-effector while maintaining the penetration point constraint.
+*Trajectory Generation: Generated a trajectory and demonstrated the robot's controlled motion.
 # Tools Used
 MATLAB: Used for solving the optimization problem and simulating the robot's motion.
 
